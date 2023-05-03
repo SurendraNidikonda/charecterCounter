@@ -1,0 +1,14 @@
+.input-card {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+.input-text {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 600;
+}
